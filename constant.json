@@ -1,0 +1,62 @@
+{
+    "experiences": [
+        {
+            "company": "Apple",
+            "link": "/",
+            "title": "Jr. Frontend Developer",
+            "duration": "Jan 2021 - Aug 2021",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "Various versions have evolved over the years, sometimes by accident"
+            ]
+        },
+        {
+            "company": "Google",
+            "link": "/",
+            "title": "Internship",
+            "duration": "Sep 2020 - Jan 2021",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "It is a long established fact that a reader will be distracted."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Real-Time Food Ordering System",
+            "image": "../public/profile_1.png.png",
+            "desc": "Developing a real-time website for students to order food from college cafeteria It avoids the traditional queue and waitiing system.",
+            "skills": ["HTML", "CSS", "JAVASCRIPT"],
+            "github": "/",
+            "link": "https://github.com/Raghvkowtal"
+        },
+        {
+            "title":"Gesture to speech conversion using ML (Keras and Tensorflow)",
+            "image": "./images/project_2.png",
+            "desc": "Built a model using CNN Algorithm by providing 3000 Hand-gesture data set with an Accuracy of 97%",
+            "skills": ["MACHINE LEARNING", "ARTIFICIAL INTELLIGENCE", "OPENCV", "PYTHON"],
+            "github": "/",
+            "link": "https://github.com/Raghvkowtal/Hand-gesture-recognitio"
+        },
+        {
+            "title":"Chatbot with RASA NLU Model and Python",
+            "image": "./images/project_2.png",
+            "desc": "Engineered a model on a recommended system with Graphical User Interface Implementation Built a chatbot using the RASA framework and Natural Language Processing with a outcome of 97%.",
+            "skills": ["MACHINE LEARNING", "ARTIFICIAL INTELLIGENCE", "RASA", "PYTHON"],
+            "github": "/",
+            "link": "https://github.com/Raghvkowtal"
+        },
+        {
+            "title":"Personal Portfolio",
+            "image": "./images/project_2.png",
+            "desc": "Built a Personal Portfolio webite",
+            "skills": ["HTML", "CSS", "JAVASCRIPT"],
+            "github": "/",
+            "link": "https://github.com/Raghvkowtal/Personal-Portfolio"
+        }
+    ]
+}
